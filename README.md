@@ -1,4 +1,4 @@
-# which-language-is-BEST-for-DSA-
+# Conquer DSA in 90 days
 
 Day  −∞  to 0: Stick to a programming language like C or C++. Make sure that you are comfortable with pointers/objects.
 
